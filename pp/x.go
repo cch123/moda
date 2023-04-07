@@ -1,6 +1,6 @@
 package ppp
 
-import m "github.com/cch123/mod-b"
+import m "github.com/cch123/modb"
 
 func Call() {
 	println("hello")

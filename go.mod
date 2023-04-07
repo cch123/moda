@@ -1,3 +1,3 @@
-module github.com/cch123/mod-a
+module github.com/cch123/moda
 
 go 1.20

@@ -1,1 +1,1 @@
-package mod-a
+package moda
